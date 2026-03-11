@@ -50,7 +50,7 @@ The main goal of this project is to demonstrate **interactive UI development, st
 Clone the repository
 
 ```
-git clone https://github.com/Dasmohapatraa/personal_finance_dashboard.git
+git clone https://github.com/Dasmohapatraa/finance_dashboard.git
 ```
 
 Open the project folder.
@@ -80,7 +80,7 @@ http://localhost:5174
 If GitHub Pages is enabled for this repository, the project can be accessed directly in the browser:
 
 ```
-https://Dasmohapatraa.github.io/personal_finance_dashboard/
+https://Dasmohapatraa.github.io/finance_dashboard/
 ```
 
 ---
@@ -149,3 +149,4 @@ Possible improvements include:
 Do give it a try!
 
 Developed by **Piyush Dasmohapatra**
+
